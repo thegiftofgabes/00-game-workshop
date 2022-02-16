@@ -1,15 +1,12 @@
 # Sol - Relics Unearthed
 
+This setting was originally published on https://thegiftofdice.itch.io/sol-relics-unearthed.
+
 Sol is a solarpunk high fantasy setting made with a combination of [AI Dungeon](https://play.aidungeon.io/main/worldStart?worldPublicId=0fdfd5be-bac1-460a-80e6-76898f38bdab) generated prompts, [Fantasy Name Generator](https://fantasynamegenerators.com/), and a lot of my ideas. I wrote it in about a couple of hours and proceeded to edit and improve it over a couple of days.
 
 The images used here were all generated automatically on Artbreeder through AI Dungeon.
 
-<aside>
-🔅 By using this material, partially or wholly, you agree to punch fascists and stomp on bigotry. You will respect your fellow players and their needs, concerns, and traumas. At any point for any reason, a player can veto elements of the narrative that are being brought in. You will not use my words in this game to justify harming others.
-
-</aside>
-
-![world3.jpg](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/49387738-46ad-45b6-bd83-58beaea7ae2c/world3.jpg)
+> 🔅 By using this material, partially or wholly, you agree to punch fascists and stomp on bigotry. You will respect your fellow players and their needs, concerns, and traumas. At any point for any reason, a player can veto elements of the narrative that are being brought in. You will not use my words in this game to justify harming others.
 
 # About Sol
 
@@ -17,10 +14,7 @@ Sol is a world of bright, sunlit lands and huge, grey oceans, filled with great 
 
 # Character Origins
 
-<aside>
-🔅 in fantasypunk or Patchwork World, you may use community trends, professions, and groups and organisations during character creation. For example, you can pick a tag from a community trend, another from your profession, and maybe one of your bonds comes from a faction and another from a location.
-
-</aside>
+>🔅 in fantasypunk or Patchwork World, you may use community trends, professions, and groups and organisations during character creation. For example, you can pick a tag from a community trend, another from your profession, and maybe one of your bonds comes from a faction and another from a location.
 
 People in Sol are extremely diverse. Some look a lot like humans in our own world, others are very much like folks you'll find in different fantasy or sci-fi settings, but mostly everyone has unique looks and shapes: horned, bright-coloured skin folk with hooves for feet and a whipping tail; pointy-eared, ethereal-like humanoids with speckled eyes and otherworldly looks; small, squat nimble folk, with very long noses and sharp teeth; machine-like sentient beings sustained by magic and science, made from a variety of materials, blurring the lines between magic, tech, and the nature that intertwines with both.
 
@@ -67,8 +61,6 @@ Wayfinders are a class of wandering mages that have a natural affinity for findi
 ## Archaeologist
 
 Archaeologists are scholars and historians who are obsessed with ancient civilizations. They search for and unearth ancient artefacts and data. These people are tinkerers, mechanics, and inventors who have a passion for ancient technology. They can commune with ancient computers, and even rebuild them, however unreliably.
-
-![world4.jpg](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/c5a7e1db-89e7-495a-bceb-05682227f7af/world4.jpg)
 
 # Groups and Organisations
 
@@ -135,8 +127,6 @@ The Library is a massive technological complex that is filled with hundreds of t
 ## The Primordial Semicircle
 
 The Primordial Semicircle is considered the actual centre of the world. It is an area of land that is rich in magic and technology. The Primordial Semicircle acts as a central hub for the world of Sol, although it is also used as a safe haven for when the world turns upside down. The largest settlements in the world are here, and it's said that "all roads begin at the Primordial Semicircle".
-
-![world7.jpg](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/f495a224-02f5-4b4d-96b1-a8200c512cdd/world7.jpg)
 
 # Future Implementations to Sol
 
