@@ -25,7 +25,6 @@ Disclaimer: This license is very similar to CC-BY SA. Just make sure that:
 > Attribution
 This work includes material derived from Giant Metal Body, by Gabriel Caetano, available by the Anti-Capitalist Attribution Cooperative License at thegiftofdice.itch.io. [This Work] is not affiliated with Gabriel Caetano and is available by the Anti-Capitalist Attribution Cooperative License.
 > 
-> 
 > By using this material, partially or wholly, you agree to punch fascists and stomp on bigotry. You will respect your fellow players and their needs, concerns, and traumas. At any point for any reason, a player can veto elements of the narrative that are being brought in. You will not use my words in this game to justify harming others.
 > 
 
@@ -39,7 +38,7 @@ Use whatever form of writing you have available to determine your Stats and Modu
 
 - Cool - highlight: save 1 juice when you move to dodge or flee
 - Edge - highlight: ignore a 1 when you attack
-- Hope: highlight: you recover a tag on a 12
+- Hope - highlight: you recover a tag on a 12
 - Team - highlight: on a 12, +1d6 on your next roll
 
 # Modules

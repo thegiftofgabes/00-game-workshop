@@ -14,31 +14,45 @@ Sol is a world of bright, sunlit lands and huge, grey oceans, filled with great 
 
 # Character Origins
 
->🔅 in fantasypunk or Patchwork World, you may use community trends, professions, and groups and organisations during character creation. For example, you can pick a tag from a community trend, another from your profession, and maybe one of your bonds comes from a faction and another from a location.
+>🔅 in fantasypunk or Patchwork World, you may use community trends, professions, and groups and organisations during character creation. 
+>
+> For example, you can pick a tag from a community trend, another from your profession, and maybe one of your bonds comes from a faction and another from a location.
 
-People in Sol are extremely diverse. Some look a lot like humans in our own world, others are very much like folks you'll find in different fantasy or sci-fi settings, but mostly everyone has unique looks and shapes: horned, bright-coloured skin folk with hooves for feet and a whipping tail; pointy-eared, ethereal-like humanoids with speckled eyes and otherworldly looks; small, squat nimble folk, with very long noses and sharp teeth; machine-like sentient beings sustained by magic and science, made from a variety of materials, blurring the lines between magic, tech, and the nature that intertwines with both.
+People in Sol are extremely diverse. Some look a lot like humans in our own world, others are very much like folks you'll find in different fantasy or sci-fi settings, but mostly everyone has unique looks and shapes: horns, bright-coloured skin folk with hooves for feet and a whipping tail; pointy-eared, ethereal-like humanoids with speckled eyes and otherworldly looks; small, squat nimble folk, with very long noses and sharp teeth; machine-like sentient beings sustained by magic and science, made from a variety of materials, blurring the lines between magic, tech, and the nature that intertwines with both.
 
 # Community Trends
 
 People in Sol are not grouped by their looks or species but they can be loosely outlined by culture, affinities, goals and relationships with each other and the world. Scholars refer to these very sophisticated and multi-layered social organisms as Community Trends
 
-There are three major community trends among people in Sol: Wildsfolk, Arcane and Construct. There are not exclusively the only ones but are the most encompassing of them all. 
+There are three major community trends among people in Sol: Wildsfolk Circles, Arcane Conclaves and Construct Communes. These are not exclusively the only ones but are the most encompassing of them all.
 
 When you create a character choose one cultural trend from the options below. It will hardly determine what you look like, if at all, but it will inform your outlooks, personality and goals, as well as some of the skills and heritage you bring along with you.
 
-## Wildsfolk
+## Wildsfolk Circles
 
-Living in the forests, savannas, and mountains, the wildsfolk are tight-knit communities divided into tribes, clans or caravans that are loosely organized by geography. They are very advanced groups, that have learned to sustainably harness the produce of nature. The wildsfolk are often hunters and gatherers but many communities live through trade and craft, or non-exploitive forms of industry. Their communities bear strong magic connections with the earth and the spirits of their ancestors.
+Living in the forests, savannas, and mountains, the wildsfolk are tight-knit communities divided into tribes, clans or caravans that are loosely organized by geography. 
 
-## Arcane
+They are very advanced groups, that have learned to sustainably harness the produce of nature. The wildsfolk are often hunters and gatherers but many communities live through trade and craft, or non-exploitive forms of industry. 
 
-The Arcane are the keepers of ancient knowledge, with a mastery of physical sciences that is rivalled by few. With an extensive history of living in harmony with magic, Arcane cultures and societies have developed lifestyles that are highly dependent on the use of magic. Most Arcanes are capable of channelling powerful magical abilities, though many are inclined to use these powers in tandem with advanced machines created by lost civilizations to harness their magical energies.
+Their communities bear strong magic connections with the earth and the spirits of their ancestors.
 
-## Construct
+## Arcane Conclaves
 
-Constructs are people whose bodies, or maybe even minds, are made from more than flesh and bone, memories and thoughts. Some are living artefacts that were created by powerful mages to serve as companions, or as weapons. Some are people who became symbiotically attuned to magical contraptions or technological relics. In fact, these are just a few of infinite possibilities. In all aspects, and despite their uncanny origins, they are much like the other peoples of the world.
+The Arcane Conclaves keep ancient knowledge, encouraging and teaching the mastery of physical sciences.
 
-# Professions
+With an extensive history of heavily relying on magic, Arcane cultures and societies have developed lifestyles that are highly dependent on it.
+
+Most Arcanes are learned in the arts of channelling  magic, though many are inclined to use these powers in tandem with advanced machines created by lost civilizations to harness their magical energies.
+
+## Construct Communes
+
+Some communities grow around theier reationship with solar constructs, magical machines, contraption and dweomers designed in ancient times for a myriad of tasks.
+
+There is a strong culture of body modifiction and the development of prosthetics, aids and implements that heavily integrate people in the communes with the very relics they study.
+
+Their very unique combination of science, medicine and mysticism makes Construct Communes the some of thee most prolific and diverse cultures uder the Sun.
+
+# Adventurous Professions
 
 Sol is vast and diverse, and there are many walks one may take in life. These careers are only but a few, perhaps the most notable ones, and people who perform these activities, more often than not, come up with the stuff of legend.
 
@@ -128,17 +142,20 @@ The Library is a massive technological complex that is filled with hundreds of t
 
 The Primordial Semicircle is considered the actual centre of the world. It is an area of land that is rich in magic and technology. The Primordial Semicircle acts as a central hub for the world of Sol, although it is also used as a safe haven for when the world turns upside down. The largest settlements in the world are here, and it's said that "all roads begin at the Primordial Semicircle".
 
-# Future Implementations to Sol
-
-These are some things the setting could benefit from, from a game perspective. Maybe I'll get to them sooner, maybe later.
-
-- [ ]  Random tables for character origins
-- [ ]  Notable creatures
-- [ ]  Uncanny relics and magical items
-- [ ]  Adventure hooks
-
 # License and Attributions
 
 Sol - Relics Unearthed is a creation of Gabriel Caetano, published under [Anti-Capitalist Attribution Cooperative License](https://noroadhome.itch.io/acaclicense).
 
 [Anti-Capitalist Attribution Cooperative License.md](https://github.com/thegiftofgabes/Minimal-Games-and-Hacks/blob/20e128e404d4c6834be4eb02ff82d93379b6e03f/LICENSE.md)
+
+# Appendix 1
+
+## About Relics and Constructs
+
+Since most of the knowledge around their creation is lost, refurbishing, repurposing and, with plenty of skill and a dash of luck, repaired to a functional state, often to perform funtions rather different to what those were intended.
+
+Constructs are beings whose bodies, or maybe even minds, are made from more than flesh and bone, memories and thoughts. 
+
+Some are living artefacts that were created by skillful mages to serve as companions, or as weapons. Some are people who became symbiotically attuned to magical contraptions or technological relics.
+
+In fact, these are just a few of infinite possibilities. In all aspects, and despite their uncanny origins, they are much like the other peoples of the world.
