@@ -4,7 +4,7 @@ Originally published at https://thegiftofdice.itch.io/life-path-stats-tech
 
 We will need a grid. Let's start with a 4x6 grid. I'm gonna use the examples for a game I got a concept for, which I currently call Warrior/Princess.
 
-I thought of using this for a hack of Lasers and Feelings. By answering the prompts, we will figure out what is the Stat Number (or the numbers for multiple stats.
+I thought of using this for a hack of Lasers and Feelings. By answering the prompts, we will figure out what is the Stat Number (or the numbers for multiple stats).
 
 Mark how strongly each statement is true (2) or false (4) on the grid below.
 
