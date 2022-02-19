@@ -4,7 +4,7 @@ A Lasers and Feelings Hack
 
 # Upringing
 
-1 - Mark how stogly each statement is true (2) or false (4). 
+1 - Mark how stongly each statement is true (2) or false (4). 
 
 |  	|   	|   	|   	|   	| approach  	|
 |----------------------------------------------------------	|---	|---	|---	|---	|-----------	|
