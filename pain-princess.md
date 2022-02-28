@@ -29,3 +29,22 @@ When you try something risky, chancy or hasty, choose an approach and the GM wil
 
 Princess: roll over that approach's number.
 Pain: roll under that approach's number.
+
+---
+
+What is your gender 
+
+- Crashing waves
+- Scorching sun
+- Autumn leaves
+- Oblivion
+- Ungodlyhour
+- Faerie
+- Waxing moon
+- Twilight secrets
+- Wind and fire
+- Eye of the storm
+- Root of the baobab
+- Lioness
+- Gliding condot
+- Whispers
