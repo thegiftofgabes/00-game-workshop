@@ -49,5 +49,3 @@ What is your gender
 - Lioness
 - Gliding condot
 - Whispers
-=======
->>>>>>> 42bc229f3d2e5d2ed88414eb5d3c556603717ff4
