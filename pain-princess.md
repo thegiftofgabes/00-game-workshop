@@ -4,7 +4,7 @@ A Lasers and Feelings Hack
 
 # Upringing
 
-1 - Mark how stogly each statement is true (2) or false (4). 
+1 - Mark how stongly each statement is true (2) or false (4). 
 
 |  	|   	|   	|   	|   	| approach  	|
 |----------------------------------------------------------	|---	|---	|---	|---	|-----------	|
@@ -29,6 +29,7 @@ When you try something risky, chancy or hasty, choose an approach and the GM wil
 
 Princess: roll over that approach's number.
 Pain: roll under that approach's number.
+<<<<<<< HEAD
 
 ---
 
@@ -48,3 +49,5 @@ What is your gender
 - Lioness
 - Gliding condot
 - Whispers
+=======
+>>>>>>> 42bc229f3d2e5d2ed88414eb5d3c556603717ff4
