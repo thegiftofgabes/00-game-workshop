@@ -21,7 +21,7 @@ Then burn the paper where you wrote them and strike a scratch for every bad thou
 
 ---
 
-[Dream](https://twitter.com/TheGiftOfGabes/status/1473576956184698882)
+## [Dream](https://twitter.com/TheGiftOfGabes/status/1473576956184698882)
 
 Dream. Do you remember it? Y/N
 
@@ -37,7 +37,7 @@ Do you swap places with them?
 
 ---
 
-[Hanged Man](https://twitter.com/TheGiftOfGabes/status/1473312997611298819)
+## [Hanged Man](https://twitter.com/TheGiftOfGabes/status/1473312997611298819)
 
 A TTRPG diceless game where resulution is done through a game of hangman. If you hit a letter, you get a success, if you miss it, you get miss, and if you find the word, you overcome the challenge. If you get hanged, well...
 +--+
@@ -49,6 +49,6 @@ O |
 
 ---
 
-[Hope](https://twitter.com/TheGiftOfGabes/status/1467558567570034688)
+## [Hope](https://twitter.com/TheGiftOfGabes/status/1467558567570034688)
 
 When you Hope, roll 1d6 and compare to Exhaustion. If you roll over Exhaustion, increase it by 1. If you roll under, you have never lost Hope, but your body can't go on. How far did you go on Hope alone?
