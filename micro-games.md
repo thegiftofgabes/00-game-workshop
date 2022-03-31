@@ -18,6 +18,7 @@ Actions
 Write down your bad thoughts and defeat them in battle. 
 
 Then burn the paper where you wrote them and strike a scratch for every bad thought you defeated.
+
 ---
 
 [Dream](https://twitter.com/TheGiftOfGabes/status/1473576956184698882)
