@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "games/Alone in a Role Playing Game.md",
+            "file": "modules/weapon-system.md",
             "mode": "source",
             "backlinks": false,
             "source": true
@@ -21,8 +21,38 @@
             {
               "leaf": "c926a4bb10718dba",
               "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"modules/weapon-system.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":true}}",
+              "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}},\"scroll\":6.785714285714286}"
+            },
+            {
+              "leaf": "c926a4bb10718dba",
+              "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"modules/wagadu-inspiration-system.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":true}}",
+              "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+            },
+            {
+              "leaf": "c926a4bb10718dba",
+              "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"modules/stonetouched-01.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":true}}",
+              "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+            },
+            {
+              "leaf": "c926a4bb10718dba",
+              "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"modules/archetypes.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":true}}",
+              "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}},\"scroll\":0}"
+            },
+            {
+              "leaf": "c926a4bb10718dba",
+              "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"games/micro-games.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":true}}",
+              "eState": "{\"scroll\":47.48360083740405}"
+            },
+            {
+              "leaf": "c926a4bb10718dba",
+              "group": null,
               "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"games/Alone in a Role Playing Game.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":true}}",
-              "eState": "{}"
+              "eState": "{\"cursor\":{\"from\":{\"line\":1,\"ch\":403},\"to\":{\"line\":1,\"ch\":403}},\"scroll\":0}"
             },
             {
               "leaf": "c926a4bb10718dba",
@@ -107,36 +137,6 @@
               "group": null,
               "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Maker.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":true}}",
               "eState": "{}"
-            },
-            {
-              "leaf": "c926a4bb10718dba",
-              "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"modules/archetypes.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":true}}",
-              "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
-            },
-            {
-              "leaf": "c926a4bb10718dba",
-              "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Life-Path-Stats-Tech 1.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":true}}",
-              "eState": "{}"
-            },
-            {
-              "leaf": "c926a4bb10718dba",
-              "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Life-Path-Stats-Tech.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":true}}",
-              "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
-            },
-            {
-              "leaf": "c926a4bb10718dba",
-              "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Life-Path-Stats-Tech 1.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":true}}",
-              "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
-            },
-            {
-              "leaf": "c926a4bb10718dba",
-              "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Life-Path-Stats-Tech.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":true}}",
-              "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
             }
           ]
         }
@@ -252,6 +252,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "modules/weapon-system.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -272,6 +273,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "modules/weapon-system.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -286,7 +288,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "modules/weapon-system.md"
+              }
             },
             "pane-relief:history-v1": {
               "pos": 0,
@@ -424,15 +428,15 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "768c5254b16828fa",
+  "active": "c926a4bb10718dba",
   "lastOpenFiles": [
-    "conflict-files-obsidian-git.md",
-    "modules/stonetouched-01.md",
-    "games/Alone in a Role Playing Game.md",
-    "games/micro-games.md",
-    "modules/archetypes.md",
     "modules/weapon-system.md",
     "modules/wagadu-inspiration-system.md",
+    "modules/stonetouched-01.md",
+    "modules/archetypes.md",
+    "games/micro-games.md",
+    "games/Alone in a Role Playing Game.md",
+    "conflict-files-obsidian-git.md",
     "Roots-And-Flowers.md",
     "README 1.md",
     "README.md"
