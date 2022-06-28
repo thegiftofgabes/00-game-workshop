@@ -1,0 +1,407 @@
+{
+  "main": {
+    "id": "aeb2643b1810fa30",
+    "type": "split",
+    "children": [
+      {
+        "id": "c926a4bb10718dba",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "games/Alone in a Role Playing Game.md",
+            "mode": "source",
+            "backlinks": false,
+            "source": true
+          }
+        },
+        "pane-relief:history-v1": {
+          "pos": 0,
+          "stack": [
+            {
+              "leaf": "c926a4bb10718dba",
+              "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"games/Alone in a Role Playing Game.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":true}}",
+              "eState": "{}"
+            },
+            {
+              "leaf": "c926a4bb10718dba",
+              "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"games/micro-games.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":true}}",
+              "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+            },
+            {
+              "leaf": "c926a4bb10718dba",
+              "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"games/Alone in a Role Playing Game.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":true}}",
+              "eState": "{}"
+            },
+            {
+              "leaf": "c926a4bb10718dba",
+              "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"modules/archetypes.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":true}}",
+              "eState": "{}"
+            },
+            {
+              "leaf": "c926a4bb10718dba",
+              "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"modules/weapon-system.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":true}}",
+              "eState": "{}"
+            },
+            {
+              "leaf": "c926a4bb10718dba",
+              "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"modules/wagadu-inspiration-system.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":true}}",
+              "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+            },
+            {
+              "leaf": "c926a4bb10718dba",
+              "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"games/Alone in a Role Playing Game.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":true}}",
+              "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+            },
+            {
+              "leaf": "c926a4bb10718dba",
+              "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Roots-And-Flowers.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":true}}",
+              "eState": "{}"
+            },
+            {
+              "leaf": "c926a4bb10718dba",
+              "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"modules/archetypes.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":true}}",
+              "eState": "{}"
+            },
+            {
+              "leaf": "c926a4bb10718dba",
+              "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"games/micro-games.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":true}}",
+              "eState": "{}"
+            },
+            {
+              "leaf": "c926a4bb10718dba",
+              "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"README 1.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":true}}",
+              "eState": "{\"scroll\":0}"
+            },
+            {
+              "leaf": "c926a4bb10718dba",
+              "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"README.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":true}}",
+              "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+            },
+            {
+              "leaf": "c926a4bb10718dba",
+              "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"micro-games 1.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":true}}",
+              "eState": "{}"
+            },
+            {
+              "leaf": "c926a4bb10718dba",
+              "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"games/micro-games.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":true}}",
+              "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}},\"scroll\":0}"
+            },
+            {
+              "leaf": "c926a4bb10718dba",
+              "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Maker.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":true}}",
+              "eState": "{}"
+            },
+            {
+              "leaf": "c926a4bb10718dba",
+              "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"modules/archetypes.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":true}}",
+              "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+            },
+            {
+              "leaf": "c926a4bb10718dba",
+              "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Life-Path-Stats-Tech 1.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":true}}",
+              "eState": "{}"
+            },
+            {
+              "leaf": "c926a4bb10718dba",
+              "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Life-Path-Stats-Tech.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":true}}",
+              "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+            },
+            {
+              "leaf": "c926a4bb10718dba",
+              "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Life-Path-Stats-Tech 1.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":true}}",
+              "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+            },
+            {
+              "leaf": "c926a4bb10718dba",
+              "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Life-Path-Stats-Tech.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":true}}",
+              "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+            }
+          ]
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "d57f66e6edd67221",
+    "type": "split",
+    "children": [
+      {
+        "id": "91bd1f4287c424e4",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "2eecf8555a46e589",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            },
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": []
+            }
+          },
+          {
+            "id": "25b0fb731218b0b7",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            },
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": []
+            }
+          },
+          {
+            "id": "9575e05ccf6b37e6",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            },
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": []
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 222.5
+  },
+  "right": {
+    "id": "670b20684f9bf95b",
+    "type": "split",
+    "children": [
+      {
+        "id": "f9b34f54d8dd576d",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "d96bd8bd5bbf33b0",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "games/Alone in a Role Playing Game.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": false
+              }
+            },
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": []
+            }
+          },
+          {
+            "id": "38f0e0c4b9755e29",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "games/Alone in a Role Playing Game.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": false
+              }
+            },
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": []
+            }
+          },
+          {
+            "id": "f87b1da6c33067dd",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "games/Alone in a Role Playing Game.md"
+              }
+            },
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": []
+            }
+          },
+          {
+            "id": "2c193291dbbea222",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            },
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": []
+            }
+          },
+          {
+            "id": "8b1bf8a1833316c8",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
+            },
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": []
+            }
+          },
+          {
+            "id": "d046e025e190e9fb",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
+            },
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": []
+            }
+          },
+          {
+            "id": "759799735c20069d",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
+            },
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": []
+            }
+          },
+          {
+            "id": "5754d44d44b44dd8",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
+            },
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": []
+            }
+          },
+          {
+            "id": "a2bba93e22ec7cd8",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
+            },
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": []
+            }
+          },
+          {
+            "id": "6970aa5dafab93a7",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
+            },
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": []
+            }
+          },
+          {
+            "id": "863dfcb14f20e31e",
+            "type": "leaf",
+            "state": {
+              "type": "advanced-tables-toolbar",
+              "state": {}
+            },
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": []
+            }
+          },
+          {
+            "id": "6279e944d7ed8b33",
+            "type": "leaf",
+            "state": {
+              "type": "BC-matrix",
+              "state": {}
+            },
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": []
+            }
+          },
+          {
+            "id": "bf539568fc906b0f",
+            "type": "leaf",
+            "state": {
+              "type": "BC-tree",
+              "state": {}
+            },
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": []
+            }
+          }
+        ],
+        "currentTab": 10
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "active": "c926a4bb10718dba",
+  "lastOpenFiles": [
+    "games/Alone in a Role Playing Game.md",
+    "games/micro-games.md",
+    "modules/archetypes.md",
+    "modules/weapon-system.md",
+    "modules/wagadu-inspiration-system.md",
+    "Roots-And-Flowers.md",
+    "README 1.md",
+    "README.md",
+    "micro-games 1.md",
+    "Maker.md"
+  ]
+}

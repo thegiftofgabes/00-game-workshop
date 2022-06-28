@@ -1,0 +1,19 @@
+{
+  "promptDelete": false,
+  "legacyEditor": false,
+  "livePreview": false,
+  "showFrontmatter": true,
+  "showLineNumber": true,
+  "spellcheckLanguages": [
+    "en-GB",
+    "pt-BR"
+  ],
+  "alwaysUpdateLinks": true,
+  "newFileLocation": "current",
+  "newLinkFormat": "shortest",
+  "defaultViewMode": "source",
+  "readableLineLength": true,
+  "strictLineBreaks": true,
+  "fileSortOrder": "alphabetical",
+  "spellcheck": true
+}
