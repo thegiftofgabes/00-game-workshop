@@ -140,6 +140,43 @@
             }
           ]
         }
+      },
+      {
+        "id": "768c5254b16828fa",
+        "type": "leaf",
+        "state": {
+          "type": "empty",
+          "state": {}
+        },
+        "pane-relief:history-v1": {
+          "pos": 0,
+          "stack": [
+            {
+              "leaf": "768c5254b16828fa",
+              "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"conflict-files-obsidian-git.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":true}}",
+              "eState": "{}"
+            },
+            {
+              "leaf": "768c5254b16828fa",
+              "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"modules/stonetouched-01.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":true}}",
+              "eState": "{\"scroll\":20.165387299371947}"
+            },
+            {
+              "leaf": "768c5254b16828fa",
+              "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"conflict-files-obsidian-git.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":true}}",
+              "eState": "{\"cursor\":{\"from\":{\"line\":2,\"ch\":8},\"to\":{\"line\":2,\"ch\":8}}}"
+            },
+            {
+              "leaf": "768c5254b16828fa",
+              "group": null,
+              "state": "{\"type\":\"empty\",\"state\":{}}",
+              "eState": "{}"
+            }
+          ]
+        }
       }
     ],
     "direction": "vertical"
@@ -215,7 +252,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "games/Alone in a Role Playing Game.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -236,7 +272,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "games/Alone in a Role Playing Game.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -251,9 +286,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "games/Alone in a Role Playing Game.md"
-              }
+              "state": {}
             },
             "pane-relief:history-v1": {
               "pos": 0,
@@ -391,8 +424,10 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "c926a4bb10718dba",
+  "active": "768c5254b16828fa",
   "lastOpenFiles": [
+    "conflict-files-obsidian-git.md",
+    "modules/stonetouched-01.md",
     "games/Alone in a Role Playing Game.md",
     "games/micro-games.md",
     "modules/archetypes.md",
@@ -400,8 +435,6 @@
     "modules/wagadu-inspiration-system.md",
     "Roots-And-Flowers.md",
     "README 1.md",
-    "README.md",
-    "micro-games 1.md",
-    "Maker.md"
+    "README.md"
   ]
 }
