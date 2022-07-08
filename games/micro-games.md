@@ -40,13 +40,12 @@ Do you swap places with them?
 ## [Hanged Man](https://twitter.com/TheGiftOfGabes/status/1473312997611298819)
 
 A TTRPG diceless game where resulution is done through a game of hangman. If you hit a letter, you get a success, if you miss it, you get miss, and if you find the word, you overcome the challenge. If you get hanged, well...
-+--+
-| |
-O |
-/|\ |
-/ \ |
-|
 
++--+
+  | |
+  O |
+ /|\|
+ / \|
 ---
 
 ## [Hope](https://twitter.com/TheGiftOfGabes/status/1467558567570034688)
