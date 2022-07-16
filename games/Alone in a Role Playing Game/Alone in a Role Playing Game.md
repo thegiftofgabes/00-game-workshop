@@ -1,10 +1,15 @@
-# Creating a Scene
+---
+Title: "Alone in a Roleplaying game"
+Author: "Gabriel Caetano"
+---
+
+# Alone in a Role Playing Game
 
 Based on Alone Among the Stars, by Takuma Okada
 
 Goal: setting scenes by drawing cards and rolling dice to provide sparks for solo or gmless modes of playing TTRPGs.
 
-Procedure outline:
+Procedure outline to create a scene:
 - Roll 1d6;
 - Draw that many cards, spreading them side by side, and face down;
 - Flip a card and roll 1d6 on the Major or Minor arcana table;
