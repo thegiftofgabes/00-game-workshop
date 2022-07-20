@@ -86,3 +86,13 @@ Major Arcana
 # Credits
 
 [Takuma Okada's Alone Among the Stars](https://noroadhome.itch.io/alone-among-the-stars)
+
+# Optional Procedures
+
+## Complexity
+
+When rolling a die to draw cards, roll the die twice and keep the higher result for a more complex scene, or the lowest result for a simpler scene.
+
+## Unique Cards
+
+After each scene you may set the cards you drew aside, not reshuffling them after each scene. Once the draw pile is empty or nearly empty, shuffle all of the cards together.
