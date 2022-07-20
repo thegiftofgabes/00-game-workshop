@@ -1,0 +1,118 @@
+{
+  "main": {
+    "id": "013a733963b2976c",
+    "type": "split",
+    "children": [
+      {
+        "id": "36f3af74f6d93e8a",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "games/Alone-in-a-Role-Playing-Game/Myriad Arcana.md",
+            "mode": "source",
+            "source": false
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "1489c09524f0c9e1",
+    "type": "mobile-drawer",
+    "children": [
+      {
+        "id": "42c969a349110d3f",
+        "type": "leaf",
+        "state": {
+          "type": "file-explorer",
+          "state": {}
+        }
+      },
+      {
+        "id": "96fc9235ad59069b",
+        "type": "leaf",
+        "state": {
+          "type": "search",
+          "state": {
+            "query": "",
+            "matchingCase": false,
+            "explainSearch": false,
+            "collapseAll": false,
+            "extraContext": false,
+            "sortOrder": "alphabetical"
+          }
+        }
+      },
+      {
+        "id": "8c02e9ae2e01f6dd",
+        "type": "leaf",
+        "state": {
+          "type": "tag",
+          "state": {
+            "sortOrder": "frequency",
+            "useHierarchy": true
+          }
+        }
+      },
+      {
+        "id": "3c43adb39c0383c2",
+        "type": "leaf",
+        "state": {
+          "type": "starred",
+          "state": {}
+        }
+      }
+    ],
+    "currentTab": 0
+  },
+  "right": {
+    "id": "d9aa3f7b84aeeba2",
+    "type": "mobile-drawer",
+    "children": [
+      {
+        "id": "0dfd630dff4a62ca",
+        "type": "leaf",
+        "state": {
+          "type": "backlink",
+          "state": {
+            "file": "games/Alone-in-a-Role-Playing-Game/Myriad Arcana.md",
+            "collapseAll": false,
+            "extraContext": false,
+            "sortOrder": "alphabetical",
+            "showSearch": false,
+            "searchQuery": "",
+            "backlinkCollapsed": false,
+            "unlinkedCollapsed": true
+          }
+        }
+      },
+      {
+        "id": "ba0f1170f7aa996d",
+        "type": "leaf",
+        "state": {
+          "type": "outgoing-link",
+          "state": {
+            "file": "games/Alone-in-a-Role-Playing-Game/Myriad Arcana.md",
+            "linksCollapsed": false,
+            "unlinkedCollapsed": true
+          }
+        }
+      },
+      {
+        "id": "46504d1b58895c62",
+        "type": "leaf",
+        "state": {
+          "type": "outline",
+          "state": {
+            "file": "games/Alone-in-a-Role-Playing-Game/Myriad Arcana.md"
+          }
+        }
+      }
+    ],
+    "currentTab": 0
+  },
+  "active": "36f3af74f6d93e8a",
+  "lastOpenFiles": []
+}
