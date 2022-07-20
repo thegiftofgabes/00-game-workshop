@@ -6,12 +6,14 @@
 
 ### Keywords
 
--   **Upright**: Manifestation, Intelligence, Power, Resourceful, Inspiring
+-   **Upright**: Manifestation, Intelligence, Power, Resourcefulness, Inspiration
 -   **Reversed**: Wasted talents and resources, manipulation
 
 The Magician is a symbol of the resources you have at hand, specifically the internal resources such as your talents and capabilities. The appearance of the magician is often to remind you to take a look at these resources because they are at your beck and call!
 
 All you have to do is to acknowledge and remember them and use them to achieve your goals. Most of the time, this card appears when you are at a crossroads and are faced with the prospect of great change. But it does not change outside of yourself- it’s a transformation you are directly involved in, and it might even be up to you to conduct this transformation.
+
+> at a crossroads and facing the prospect of great change
 
 ## 2. The High Priestess
 
@@ -26,6 +28,8 @@ The High Priestess tarot card is suggesting that we need to cultivate patience a
 
 The High Priestess is telling us to honor traditions, but most importantly- to honor our innate wisdom that lies in our intuition. In a relationship context or love reading, the arrival of the High Priestess indicased a higher level of intimacy and vulnerability.
 
+> honor the innate wisdom that lies in intuition, intimacy, or vulnerability
+
 ## 3. The Empress
 
 ![](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20399%20720'%3E%3C/svg%3E)
@@ -33,11 +37,13 @@ The High Priestess is telling us to honor traditions, but most importantly- to h
 ### Keywords
 
 -   **Upright**: Femininity, Nurturer, Mother Nature, Divine Mother, Abundance, Beauty
--   **Reversed**: Writers block (creative block in general), blocked expression, overly dependant on others, no trusting self, lack of self care
+-   **Reversed**: Writers block (creative block in general), blocked expression, overly dependent on others, no trusting self, lack of self-care
 
 The Empress card is a symbol for the ultimate mother energy. She is the nurturer, the creator, and the tarot epitome of mother earth. As you can imagine, her energy is strong yet gentle. There are several interpretations for this card, most predominantly the birth of new life.
 
 This can be understood as new ideas, fresh starts, and is typically one of those feel-good cards to receive in a tarot reading. Dig a little deeper, and the empress is asking you to be open and willing to embrace change.
+
+> being open and willing to embrace change
 
 ## 4. The Emperor
 
@@ -50,6 +56,8 @@ This can be understood as new ideas, fresh starts, and is typically one of those
 
 The Emperor is the father figure of the Tarot and when you draw this card the energy is a clear masculine energy. When you draw this card it could indicate you are adopting the father figure role in your environment, you are a protector and a defender. Stability and security are two key components of The Emperor card.
 
+> the urge or need to protect or defend
+
 ## 5. The Hierophant
 
 ![](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20400%20724'%3E%3C/svg%3E)
@@ -58,6 +66,10 @@ The Emperor is the father figure of the Tarot and when you draw this card the en
 
 -   **Upright**: religion, wisdom, spiritual study, enlightenment, tradition, conformity
 -   **Reversed**: freedom, challenging tradition, personal study, and introspection
+
+conformity, conservativism, inflexibility
+tradition, study, freedom, departure
+
 
 The Hierophant tarot card symbolises order and the hierarchy that comes with spiritual study and religious beliefs. This card is the card of doctrine and represents the set course of study many of us make when we set out to understand more about ourselves and our spiritual lives.
 
@@ -71,6 +83,10 @@ The Hierophant is our reminder that foundations are important- none more so than
 
 -   **Upright**: Love, harmony, relationships, values alignment, choices
 -   **Reversed**: Self-love, disharmony, imbalance, misalignment of values
+
+
+-   **Upright**: bonds, balance, aligned values 
+-   **Reversed**: Narcissism, disharmony, imbalance
 
 The Lovers is the card of belief and personal choice. It also represents conscious connections and forming relationships that go beyond the superficial. If you get The Lovers card in a tarot reading, it could call your attention to several things.
 
