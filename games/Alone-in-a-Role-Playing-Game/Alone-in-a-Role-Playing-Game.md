@@ -7,12 +7,13 @@ Author: "Gabriel Caetano"
 
 Based on Alone Among the Stars, by Takuma Okada
 
-Goal: setting scenes by drawing cards and rolling dice to provide sparks for solo or gmless modes of playing TTRPGs.
+When you are playing a roleplayying game alone, or with friends, you may need some help establishing a scene or a backdrop for the characters to do things.
 
 Procedure outline to create a scene:
 - Roll 1d6;
 - Draw that many cards, spreading them side by side, and face down;
 - Flip a card and roll 1d6 on the Major or Minor arcana table;
+- Look at the keyword tables;
 - Interpret the result and add it to the scene;
 - When you want to, or when you are stuck, add the next card to the scene;
 - After the last card on the scene, when you feel you've completed it, start a new scene.
@@ -25,9 +26,7 @@ Minor Arcana
 Major Arcana
 - 1 – 2: a wild, mystical, or humane entity
 - 3 – 4: an offer or opportunity
-- 5 – 6: an event or sudden change
-
-other keywords: motivation, drive, goals, needs, urgent, matters
+- 5 – 6: an incident or sudden change
 
 # Interpreting Cards
 
@@ -40,7 +39,7 @@ other keywords: motivation, drive, goals, needs, urgent, matters
 | Swords    | Air, challenges, rationality, logic, mindfulness        | Harnessing strength          |
 | Pentacles | Earth, Mundane, Bodily, Tangible, Physical, resources   | Planning and Preparing       |
 
-| Rank   |                                 |
+| Rank   | Keywords                        | 
 | ------ | ------------------------------- |
 | Ace    | Beginnings, initiative          |
 | 2      | Balance, dichotomy              |
@@ -59,27 +58,31 @@ other keywords: motivation, drive, goals, needs, urgent, matters
 
 ## Major Arcana
 
-|       | Card               | Upright                                                                      | Reversed                                                                                 |
-| ----- | ------------------ | ---------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------- |
-| 0     | The Fool           | innocence, free spirit, fresh start                                          | recklessness, holding back, missing opportunities                                        |
-| I     | The Magician       | intelligence, resourcefulness, inspiration, overt power                      | wasted talents and resources, pride, condescension                                       |
-| II    | The High Priestess | intuition, dreams, patience, subtle power                                    | secrecy, lack of communication, manipulation                                             |
-| III   | The Empress        | nurturing, abundance, beauty, nature                                         | blocked expression, overly dependent on others, no trusting self, lack of self-care      |
-| IV    | The Emperor        | guidance, leadership, structure                                              | authority, control, inflexibility                                                        |
-| V     | The Hierophant     | conformity, conservativism, inflexibility                                    | tradition, study, freedom, departure                                                     |
-| VI    | The Lovers         | bonds, balance, aligned values                                               | narcissism, disharmony, imbalance                                                        |
-| VII   | The Chariot        | determination, strong will, fulfilment                                       | helplessness, lack of support, opposition                                                |
-| VIII  | Justice            | compassion, courage, empowerment                                             | doubt, hesitation,                                                                       |
-| IX    | The Hermit         | alone, introspection, inner wisdom, soul search                              | loneliness, withdrawing from society or friends, isolating yourself, fear                |
-| X     | Wheel of Fortune   | karma, cycles, turning point, destiny, fate, luck, fortune                   | breaking free of cycles, bad luck, resistance, fighting change                           |
-| XI    | Strength           | strength, courage, persuasion, influence, compassion                         | inner strength, self-doubt, low energy, raw emotion                                      |
-| XII   | The Hanged Man     | surrender, shifted perspective, letting go, release, a pause                 | indecisiveness, delay, prolonged stalling, resistance                                    |
-| XIII  | Death              | transformation, change, endings, transition, a rite of passage               | fighting change, purging within, personal transitions, transmutation of personal pain    |
-| XIV   | Temperance         | moderation, balance, patience, kindness                                      | excessive behaviors or thought patterns, imbalances, realignment, inner healing          |
-| XV    | The Devil          | shadow work, sexuality, addiction, excess, restriction                       | exploring our shadow nature, detachment, releasing limiting thought patterns and beliefs |
-| XVI   | The Tower          | chaos, change, awakening, revelation, upheaval, an unexpected turn of events | avoiding disaster, inner transformation, fear, or resistance to change                   |
-| XVII  | The Star           | celestial guidance, renewed faith, spiritual mindset, hope                   | lack of spiritual direction, no faith, self-trust issues, no connection                  |
-| XVIII | The Moon           | intuition, subconscious, anxiousness, fear.                                  | repressed gut feeling, repressed emotion, inner turmoil, releasing self-limiting fears   |
-| XIX   | The Sun            | vitality, energy, warmth, positive, joy, enthusiastic                        | feeling sad, low energy, inner child hurt, overly enthusiastic                           |
-| XX    | Judgement          | judgement, absolution, resolution                                            | being overly critical, ignoring your intuition, doubting yourself                        |
-| XXI   | The World          | completion, travel, successful goals                                         | delays, easy route, seeking closure                                                      |
+| Card               | Upright                                                         | Reversed                                                               |
+| ------------------ | --------------------------------------------------------------- | ---------------------------------------------------------------------- |
+| The Fool           | innocence, free spirit, fresh start                             | recklessness, holding back, missing opportunities                      |
+| The Magician       | intelligence, resourcefulness, inspiration, overt power         | wasted talents, lost resources, pride, condescension                   |
+| The High Priestess | intuition, dreams, patience, subtle power                       | secrecy, omission, manipulation                                        |
+| The Empress        | nurturing, abundance, beauty, nature                            | timid, dependent, neglect                                              |
+| The Emperor        | guidance, leadership, structure                                 | authority, control, stubbornness                                       |
+| The Hierophant     | tradition, study, freedom, departure                            | conformity, conservativism, inflexibility                              |
+| The Lovers         | bonds, balance, aligned values                                  | narcissism, disharmony, imbalance                                      |
+| The Chariot        | determination, strong will, fulfilment                          | helplessness, lack of support, opposition                              |
+| Justice            | compassion, courage, empowerment                                | doubt, hesitation                                                      |
+| The Hermit         | introspection, inner wisdom, self-esteem                        | loneliness, isolation, fear                                            |
+| Wheel of Fortune   | cycles, turning point, destiny, fortune                         | struggle, resistance, fighting change                                  |
+| Strength           | strength, courage, persuasion, compassion                       | force, self-doubt, low energy, raw emotion                             |
+| The Hanged Man     | surrender, re-examination, release, a pause                     | indecisiveness, delay, stalling                                        |
+| Death              | transformation, endings, transition, rites of passage, upheaval | being stuck, repeating negative patterns, resisting change, dependency |
+| Temperance         | moderation, balance, patience, kindness                         | excess, imbalances, realignment, wounds                                |
+| The Devil          | exploring shadows, detachment, breaking away                    | cunning, excess, restriction, flaw                                     |
+| The Tower          | chaos, change, revelation, upheaval, avoid disaster             | tragedy, turmoil, fear, unexpected turn of events                      |
+| The Star           | guidance, hope, patterns                                        | being lost, hopelessness, void                                         |
+| The Moon           | intuition, subconscious, embracing fear                         | repression, inner turmoil, hesitation                                  |
+| The Sun            | vitality, energy, warmth                                        | gloom, trauma, suspension                                              |
+| Judgement          | judgement call, absolution, resolution                          | judgemental, mistrust, doubt                                           |
+| The World          | completion, travel, closure                                     | delays, shortcuts, open ended                                          |
+
+# Credits
+
+[Takuma Okada's Alone Among the Stars](https://noroadhome.itch.io/alone-among-the-stars)
