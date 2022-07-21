@@ -4,12 +4,16 @@ Author: "Gabriel Caetano"
 ---
 
 # Alone in a Role Playing Game
-
 Based on Alone Among the Stars, by Takuma Okada
 
-When you are playing a roleplayying game alone, or with friends, you may need some help establishing a scene or a backdrop for the characters to do things.
+![[Itch game page banner.png]]
 
-Procedure outline to create a scene:
+When you are playing a role playing game alone, or with friends, you may need some help establishing a scene or a backdrop for the characters.
+
+## Procedure
+
+In order to create a new scene, follow these steps:
+
 - Roll 1d6;
 - Draw that many cards, spreading them side by side, and face down;
 - Flip a card and roll 1d6 on the Major or Minor arcana table;
@@ -83,16 +87,24 @@ Major Arcana
 | Judgement          | judgement call, absolution, resolution                          | judgemental, mistrust, doubt                                           |
 | The World          | completion, travel, closure                                     | delays, shortcuts, open ended                                          |
 
-# Credits
-
-[Takuma Okada's Alone Among the Stars](https://noroadhome.itch.io/alone-among-the-stars)
-
 # Optional Procedures
+
+You may use these extra procedures in your runs if you like.
 
 ## Complexity
 
 When rolling a die to draw cards, roll the die twice and keep the higher result for a more complex scene, or the lowest result for a simpler scene.
 
-## Unique Cards
+## Unique Spreads
 
-After each scene you may set the cards you drew aside, not reshuffling them after each scene. Once the draw pile is empty or nearly empty, shuffle all of the cards together.
+After each scene you may set the cards you drew aside, not reshuffling them after each scene. Once the draw pile is empty or nearly empty, shuffle all the cards together.
+
+# Credits
+
+[Takuma Okada's Alone Among the Stars](https://noroadhome.itch.io/alone-among-the-stars)
+
+# License
+
+Alone in a Role Playing Game is made available under the [Anti-Capitalist Co-op License](https://noroadhome.itch.io/acaclicense)
+
+If you create something based on this work, make sure to credit "Gabriel Caetano", including with a link to my itch page, and make sure to use the same license.
